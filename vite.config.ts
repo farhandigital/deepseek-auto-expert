@@ -10,6 +10,7 @@ export default defineConfig({
         name: 'DeepSeek Auto Expert',
         version: '0.1.0',
         description: 'Automatically check the "expert" option on DeepSeek chat page.',
+        license: 'GPL-3.0',
         author: 'Farhan Digital',
         icon: 'https://vitejs.dev/logo.svg',
         namespace: 'npm/vite-plugin-monkey',
