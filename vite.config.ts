@@ -9,7 +9,7 @@ export default defineConfig({
       userscript: {
         name: 'DeepSeek Auto Expert',
         version: '0.1.0',
-        description: 'Automatically check the "expert" option on DeepSeek chat page.',
+        description: 'Automatically select the "expert" model on DeepSeek website.',
         license: 'GPL-3.0',
         author: 'Farhan Digital',
         icon: 'https://cdn.jsdelivr.net/gh/farhandigital/deepseek-auto-expert@master/public/deepseek-logo.png',
