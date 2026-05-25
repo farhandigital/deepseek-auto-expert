@@ -1,4 +1,3 @@
-// @ts-ignore isolatedModules
 const PREFIX = '[deepseek-auto-expert]';
 const TARGET_URL = 'https://chat.deepseek.com/';
 
